@@ -1,0 +1,53 @@
+{
+  "userData": {
+    "id": 1,
+    "background": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=30",
+    "avatar": "https://github.com/devalefe.png",
+    "name": "Alefe C Oliveira",
+    "role": "Web Developer"
+  },
+
+  "posts": [
+    {
+      "id": 1,
+      "author": {
+        "id": 1,
+        "avatar": "https://github.com/devalefe.png",
+        "name": "Alefe C Oliveira",
+        "role": "Web Developer"
+      },
+      "publishedAt": "2022-07-20 19:25:00",
+      "content": [
+        {
+          "type": "paragraph",
+          "data": "Fala galeraa 👋"
+        },
+        {
+          "type": "paragraph",
+          "data": "Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀"
+        },
+        {
+          "type": "link",
+          "data": "👉 jane.design/doctorcare"
+        },
+        {
+          "type": "hashtag",
+          "data": ["#novoprojeto", "#nlw", "#rocketseat"]
+        }
+      ],
+      "commentList": [
+        {
+          "id": 1,
+          "author": {
+            "id": 2,
+            "avatar": "https://github.com/guisantanaa.png",
+            "name": "Guilherme Santana"
+          },
+          "publishedAt": "2022-07-20 19:30:00",
+          "comment": "Salve mano! Muito bom Alefe, parabéns!! 👏👏",
+          "applauses": 0
+        }
+      ]
+    }
+  ]
+}
